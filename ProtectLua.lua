@@ -1,1 +1,1 @@
-print("Welcome to My Script")
+print("Welcome to NatsuHub")
